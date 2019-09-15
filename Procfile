@@ -1,1 +1,1 @@
-worker: python app.py
+echo “web: gunicorn app:app”
